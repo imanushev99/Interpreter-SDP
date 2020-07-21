@@ -1,7 +1,3 @@
-echo "# SDP" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/imanushev99/SDP.git
-git push -u origin master
-                
+Sofia University St. Kliment Ohridski - FMI
+Computer Science, 2nd year
+Data Structures Programming (SDP) project: Interpreter
